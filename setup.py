@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="my_python_package_from_github",
-    version="0.0.1",
+    version="0.0.2",
     author="Kayode Adechinan",
     author_email="kayode.adechinan@gmail.com",
     description="simple python package hosted on Github",
