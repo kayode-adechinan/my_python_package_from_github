@@ -1,0 +1,6 @@
+setup.py
+my_python_package_from_github.egg-info/PKG-INFO
+my_python_package_from_github.egg-info/SOURCES.txt
+my_python_package_from_github.egg-info/dependency_links.txt
+my_python_package_from_github.egg-info/not-zip-safe
+my_python_package_from_github.egg-info/top_level.txt
